@@ -57,3 +57,41 @@ Starts from 10 GCYB and fall 10 KCYB each time the factory used.
 ## Setting up the cooperative
 
 The first entry in cooperative have to be the APP token which will manage default parameters of the factory and factory code.
+
+## Apps page https://cyber.page/capps
+
+If I have some tokens they stick to the top with the following fields
+- Logo
+- Name
+- My tokens
+- Share
+- Play button
+
+After, table of apps sorted by cap with the following fields
+- Logo
+- Name
+- Supply
+- Price
+- Cap
+- Users
+- cyberRank
+- Play button
+
+Action bar: Create app. If clicked on the line: issue, burn (if have) 
+
+## Create app https://cyber.page/capp/create
+
+- App name
+- Paste local code
+- Add favicon
+- Amount of CYB => will by you <amount> of
+
+## App page https://cyber.page/capp/<APP>
+  
+Logo, name, Rank, Users, Cap
+Tabs:
+- Cybernomics: Supply/Price Curve chart. Action bar: issue, burn (if have) 
+- Proposals: Board of proposals (update parametr, remote, local). Action bar: Propose update, if clicked - vote.
+- Merchants: List of holders sorted by tokens : Action bar: issue, burn (if have) 
+- Remote code. Action bar: Propose update
+- Local code. Action bar: Propose update
