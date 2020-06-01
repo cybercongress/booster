@@ -6,7 +6,7 @@ Too much apps needs to be build! Its is not good to build apps ourselves. It's w
 
 ## What?
 
-The project is a factory which allow anybody create simple, but flexible and powerful tokenized apps in Great Web with some clicks.
+The project is a factory which allow anybody create simple, but flexible and powerful tokenized and capitalized apps in Great Web with some clicks.
 
 ## Developers, developers, developers
 
